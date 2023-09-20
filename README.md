@@ -5,7 +5,9 @@
 
 ## Description
 
-This is a 3D-printable housing for the OrangePi Zero 3 single board computer.  It was successfully printed on a Creality Ender 3 V2 out of PLA with 100% infill and no support rafts or adhesion skirt.
+This is a 3D-printable vented housing for the OrangePi Zero 3 single board computer that offers protection for the components and GPIO pins while still allowing for the use of heatsinks.  It was successfully printed on a Creality Ender 3 V2 out of PLA with 100% infill and no support rafts or adhesion skirt.
+
+Note that the provided STL of the top panel will need to be flipped so that it prints legs-up, otherwise the print will fail.
 
 ## Required to Complete
 
