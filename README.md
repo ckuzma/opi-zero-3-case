@@ -13,8 +13,9 @@ The two halves in ready-to-print STL format can be found here:
 
 ## Print Settings Used
 
-- Monoprice PLA (Gray)
-- 215˚C Hotend, 50˚C Glass Print Bed
+- Monoprice PLA (Gray) 1.75mm Diameter
+- 0.4mm Nozzle, 215˚C Hotend, 50˚C Glass Print Bed
+- 0.2mm Resolution
 - 100% Infill
 - No Skirt, No Support Rafts
 
